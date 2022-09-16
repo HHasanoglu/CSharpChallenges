@@ -1,0 +1,14 @@
+D:\Hamid1\Hassanzada\Projects\HackerRankChallengesSolutions\HackerRank3Months Preparation Kit\bin\Debug\netcoreapp3.1\HackerRankChallenges.exe
+D:\Hamid1\Hassanzada\Projects\HackerRankChallengesSolutions\HackerRank3Months Preparation Kit\bin\Debug\netcoreapp3.1\HackerRankChallenges.deps.json
+D:\Hamid1\Hassanzada\Projects\HackerRankChallengesSolutions\HackerRank3Months Preparation Kit\bin\Debug\netcoreapp3.1\HackerRankChallenges.runtimeconfig.json
+D:\Hamid1\Hassanzada\Projects\HackerRankChallengesSolutions\HackerRank3Months Preparation Kit\bin\Debug\netcoreapp3.1\HackerRankChallenges.runtimeconfig.dev.json
+D:\Hamid1\Hassanzada\Projects\HackerRankChallengesSolutions\HackerRank3Months Preparation Kit\bin\Debug\netcoreapp3.1\HackerRankChallenges.dll
+D:\Hamid1\Hassanzada\Projects\HackerRankChallengesSolutions\HackerRank3Months Preparation Kit\bin\Debug\netcoreapp3.1\HackerRankChallenges.pdb
+D:\Hamid1\Hassanzada\Projects\HackerRankChallengesSolutions\HackerRank3Months Preparation Kit\obj\Debug\netcoreapp3.1\HackerRankChallenges.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hamid1\Hassanzada\Projects\HackerRankChallengesSolutions\HackerRank3Months Preparation Kit\obj\Debug\netcoreapp3.1\HackerRankChallenges.AssemblyInfoInputs.cache
+D:\Hamid1\Hassanzada\Projects\HackerRankChallengesSolutions\HackerRank3Months Preparation Kit\obj\Debug\netcoreapp3.1\HackerRankChallenges.AssemblyInfo.cs
+D:\Hamid1\Hassanzada\Projects\HackerRankChallengesSolutions\HackerRank3Months Preparation Kit\obj\Debug\netcoreapp3.1\HackerRankChallenges.csproj.CoreCompileInputs.cache
+D:\Hamid1\Hassanzada\Projects\HackerRankChallengesSolutions\HackerRank3Months Preparation Kit\obj\Debug\netcoreapp3.1\HackerRankChallenges.dll
+D:\Hamid1\Hassanzada\Projects\HackerRankChallengesSolutions\HackerRank3Months Preparation Kit\obj\Debug\netcoreapp3.1\HackerRankChallenges.pdb
+D:\Hamid1\Hassanzada\Projects\HackerRankChallengesSolutions\HackerRank3Months Preparation Kit\obj\Debug\netcoreapp3.1\HackerRankChallenges.genruntimeconfig.cache
+D:\Hamid1\Hassanzada\Projects\HackerRankChallengesSolutions\HackerRank3Months Preparation Kit\obj\Debug\netcoreapp3.1\HackerRankChallenges.csproj.AssemblyReference.cache

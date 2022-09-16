@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HackerRank3Months Preparation Kit/1.0.0": {
+        "runtime": {
+          "HackerRank3Months Preparation Kit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HackerRank3Months Preparation Kit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
