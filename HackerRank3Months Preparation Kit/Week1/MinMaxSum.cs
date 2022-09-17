@@ -42,7 +42,6 @@ namespace HackerRank3Months_Preparation_Kit
 
             Console.Write($"{minimum} {maximum}");
 
-
         }
 
 

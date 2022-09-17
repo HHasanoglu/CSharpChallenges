@@ -9,6 +9,7 @@ namespace HackerRank3Months_Preparation_Kit
         {
             //PlusMinus.Run();
             MinMaxSum.Run();
+            TimeConversion.Run();
         }
     }
 }
