@@ -8,8 +8,7 @@ namespace HackerRank3Months_Preparation_Kit
     {
         public static void Run()
         {
-            string s = "07:05:45PM";
-            s = "06:40:03AM";
+            string s = "06:40:03AM";
             timeConversion(s);
 
         }
