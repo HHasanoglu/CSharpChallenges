@@ -8,8 +8,10 @@ namespace HackerRank3Months_Preparation_Kit
         static void Main(string[] args)
         {
             //PlusMinus.Run();
-            MinMaxSum.Run();
-            TimeConversion.Run();
+            //MinMaxSum.Run();
+            //TimeConversion.Run();
+            BreakingRecords.Run();
+
         }
     }
 }
