@@ -6,4 +6,8 @@
     <RootNamespace>HackerRank3Months_Preparation_Kit</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Week1TextFiles\" />
+  </ItemGroup>
+
 </Project>

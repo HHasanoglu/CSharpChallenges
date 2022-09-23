@@ -1,0 +1,24 @@
+C;C;code swarm
+
+C;V;mobile phone
+
+C;M;white sheet of paper
+
+C;C;coffee machine
+
+S;V;iPad
+
+C;M;mouse pad
+
+S;C;OrangeHighlighter
+
+S;M;plasticCup()
+
+S;C;LargeSoftwareBook
+
+
+
+S;V;pictureFrame
+
+
+
