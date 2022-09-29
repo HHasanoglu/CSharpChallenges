@@ -11,7 +11,9 @@ namespace HackerRank3Months_Preparation_Kit
             //MinMaxSum.Run();
             //TimeConversion.Run();
             //BreakingRecords.Run();
-            CamelCase4.Run();
+            //CamelCase4.Run();
+            //DivisibleSumPairs.Run();
+            Sparse_Arrays.Run();
 
         }
     }
