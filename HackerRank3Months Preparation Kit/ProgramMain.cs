@@ -13,7 +13,9 @@ namespace HackerRank3Months_Preparation_Kit
             //BreakingRecords.Run();
             //CamelCase4.Run();
             //DivisibleSumPairs.Run();
-            Sparse_Arrays.Run();
+            //Sparse_Arrays.Run();
+            //LonelyInteger.Run();
+            //GradingStudents.Run();
 
         }
     }
