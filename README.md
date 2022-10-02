@@ -1,2 +1,2 @@
 # C# Programming Challenges
-In this Project solution of Programming challenges are published.
+In this project solution of programming challenges are published.
