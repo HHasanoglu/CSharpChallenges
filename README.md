@@ -1,2 +1,2 @@
-# HackerRankChallenges
-In this Project solution of Hacker Rank Programming challenges are published.
+# C# Programming Challenges
+In this Project solution of Programming challenges are published.
