@@ -16,7 +16,8 @@ namespace HackerRank3Months_Preparation_Kit
             //Sparse_Arrays.Run();
             //LonelyInteger.Run();
             //GradingStudents.Run();
-            FlippingTheMatrix.Run();
+            //FlippingTheMatrix.Run();
+            FlippingBits.Run();
 
         }
     }
