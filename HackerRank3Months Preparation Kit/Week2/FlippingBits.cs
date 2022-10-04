@@ -22,7 +22,7 @@ namespace HackerRank3Months_Preparation_Kit
                 if (character == '0') flipped += '1';
                 else flipped += '0';
             }
-            var number = Convert.ToInt32(flipped, 2);
+            long number = Convert.ToUInt32(flipped, 2);
             return number;
         }
     }
