@@ -15,7 +15,7 @@ namespace HackerRank3Months_Preparation_Kit
 
         private static void CamelCase()
         {
-            var sr = new StreamReader(@"..\..\..\Week1TextFiles\CamelCase4.txt");
+            var sr = new StreamReader(@"..\..\..\Week1\Week1TextFiles\CamelCase4.txt");
             var inputs = sr.ReadToEnd().Split("\r\n").Where(x => x != "").ToList();
 
 
