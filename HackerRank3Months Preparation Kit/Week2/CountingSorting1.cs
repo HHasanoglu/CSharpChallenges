@@ -18,12 +18,12 @@ namespace HackerRank3Months_Preparation_Kit
             {
                 Console.Write(item+" ");
             }
-
+            List<int> sorted = new List<int>() { };
             for (int i = 0; i < frequency.Count; i++)
             {
                 for (int j = 0; j < frequency[i]; j++)
                 {
-                    Console.Write(i + " ");
+                    sorted.Add(i);
                 }
             } 
         }
