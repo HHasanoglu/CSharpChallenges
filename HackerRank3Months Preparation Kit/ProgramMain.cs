@@ -21,7 +21,8 @@ namespace HackerRank3Months_Preparation_Kit
             //DiagonalDifference.Run();
             //CountingSorting1.Run();
             //CountingValleys.Run();
-            Pangrams.Run();
+            //Pangrams.Run();
+            MarsExploration.Run();
 
         }
     }
