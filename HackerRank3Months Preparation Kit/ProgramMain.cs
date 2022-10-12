@@ -20,7 +20,8 @@ namespace HackerRank3Months_Preparation_Kit
             //FlippingBits.Run();
             //DiagonalDifference.Run();
             //CountingSorting1.Run();
-            CountingValleys.Run();
+            //CountingValleys.Run();
+            Pangrams.Run();
 
         }
     }
