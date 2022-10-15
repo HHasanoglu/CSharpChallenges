@@ -22,7 +22,9 @@ namespace HackerRank3Months_Preparation_Kit
             //CountingSorting1.Run();
             //CountingValleys.Run();
             //Pangrams.Run();
-            MarsExploration.Run();
+            //MarsExploration.Run();
+            //SubArrayDivision.Run();
+            PermutingTwoArrays.Run();
 
         }
     }
