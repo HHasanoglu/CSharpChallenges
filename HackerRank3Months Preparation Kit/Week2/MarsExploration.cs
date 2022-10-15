@@ -22,7 +22,7 @@ namespace HackerRank3Months_Preparation_Kit
             {
                 for (int j = 0; j < 3; j++)
                 {
-                    if (s[3*i+j] != message[j]) count++;
+                    if (s[3 * i + j] != message[j]) count++;
                 }
             }
             return count;
