@@ -24,7 +24,8 @@ namespace HackerRank3Months_Preparation_Kit
             //Pangrams.Run();
             //MarsExploration.Run();
             //SubArrayDivision.Run();
-            PermutingTwoArrays.Run();
+            //PermutingTwoArrays.Run();
+            SalesByMatch.Run();
 
         }
     }
