@@ -27,7 +27,9 @@ namespace HackerRank3Months_Preparation_Kit
             //PermutingTwoArrays.Run();
             //SalesByMatch.Run();
             //MigratoryBirds.Run();
-            MaximumPrimeterTriangle.Run();
+            //MaximumPrimeterTriangle.Run();
+            //PickingNumbers.Run();
+            LeftRotation.Run();
 
         }
     }
