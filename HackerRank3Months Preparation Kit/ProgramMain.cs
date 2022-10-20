@@ -29,7 +29,8 @@ namespace HackerRank3Months_Preparation_Kit
             //MigratoryBirds.Run();
             //MaximumPrimeterTriangle.Run();
             //PickingNumbers.Run();
-            LeftRotation.Run();
+            //LeftRotation.Run();
+            NumberLineJumps.Run();
 
         }
     }
