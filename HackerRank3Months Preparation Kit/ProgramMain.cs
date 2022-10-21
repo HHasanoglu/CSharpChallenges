@@ -30,7 +30,8 @@ namespace HackerRank3Months_Preparation_Kit
             //MaximumPrimeterTriangle.Run();
             //PickingNumbers.Run();
             //LeftRotation.Run();
-            NumberLineJumps.Run();
+            //NumberLineJumps.Run();
+            SeparateTheNumbers.Run();
 
         }
     }
