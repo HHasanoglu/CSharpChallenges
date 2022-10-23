@@ -31,7 +31,8 @@ namespace HackerRank3Months_Preparation_Kit
             //PickingNumbers.Run();
             //LeftRotation.Run();
             //NumberLineJumps.Run();
-            SeparateTheNumbers.Run();
+            //SeparateTheNumbers.Run();
+            ClosestNumbers.Run();
 
         }
     }
