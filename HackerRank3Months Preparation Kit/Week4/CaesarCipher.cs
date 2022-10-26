@@ -26,7 +26,7 @@ namespace HackerRank3Months_Preparation_Kit
                 else
                 {
                     var asciCode = (((int)character + k - 97) % 26 + 97);
-                    char ch = (asciCode >= 97 && asciCode <= 122) ? (char)asciCode:character;
+                    char ch = (character >= 97 && character <= 122) ? (char)asciCode:character;
                     result.Append(ch);
                 }
             }
