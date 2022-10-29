@@ -28,12 +28,14 @@ namespace HackerRank3Months_Preparation_Kit
             //SalesByMatch.Run();
             //MigratoryBirds.Run();
             //MaximumPrimeterTriangle.Run();
+
             //PickingNumbers.Run();
             //LeftRotation.Run();
             //NumberLineJumps.Run();
             //SeparateTheNumbers.Run();
             //ClosestNumbers.Run();
-            MinimumAbsoluteDifferenceinanArray.Run();
+            //TowerBreakers.Run();
+            //MinimumAbsoluteDifferenceinanArray.Run();
             //CaesarCipher.Run();
 
         }
