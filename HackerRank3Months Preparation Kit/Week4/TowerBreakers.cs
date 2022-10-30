@@ -2,9 +2,18 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace HackerRank3Months_Preparation_Kit.Week4
+namespace HackerRank3Months_Preparation_Kit
 {
-    class TowerBreakers
+    public static class TowerBreakers
     {
+        public static void Run()
+        {
+
+            Console.WriteLine(towerBreakers(2,2)); 
+        }
+        private static int towerBreakers(int n, int m)
+        {
+            return (n % 2 == 0 || m == 1) ? 2 : 1;
+        }
     }
 }
