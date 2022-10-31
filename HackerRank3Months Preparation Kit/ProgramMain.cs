@@ -14,6 +14,7 @@ namespace HackerRank3Months_Preparation_Kit
             //CamelCase4.Run();
             //DivisibleSumPairs.Run();
             //Sparse_Arrays.Run();
+
             //LonelyInteger.Run();
             //GradingStudents.Run();
             //FlippingTheMatrix.Run();
@@ -23,12 +24,15 @@ namespace HackerRank3Months_Preparation_Kit
             //CountingValleys.Run();
             //Pangrams.Run();
             //MarsExploration.Run();
+
             //SubArrayDivision.Run();
             //PermutingTwoArrays.Run();
             //SalesByMatch.Run();
             //MigratoryBirds.Run();
             //MaximumPrimeterTriangle.Run();
 
+            /***********************************                  Week 4                    ***********************************/
+            
             //PickingNumbers.Run();
             //LeftRotation.Run();
             //NumberLineJumps.Run();
@@ -37,6 +41,10 @@ namespace HackerRank3Months_Preparation_Kit
             //TowerBreakers.Run();
             //MinimumAbsoluteDifferenceinanArray.Run();
             //CaesarCipher.Run();
+
+            /***********************************                  Week 5                    ***********************************/
+
+            MaxMin.Run();
 
         }
     }
