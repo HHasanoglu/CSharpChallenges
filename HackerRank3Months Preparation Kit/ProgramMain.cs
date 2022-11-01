@@ -44,7 +44,8 @@ namespace HackerRank3Months_Preparation_Kit
 
             /***********************************                  Week 5                    ***********************************/
 
-            MaxMin.Run();
+            //MaxMin.Run();
+            StrongPassword.Run();
 
         }
     }
