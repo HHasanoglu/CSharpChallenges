@@ -32,7 +32,7 @@ namespace HackerRank3Months_Preparation_Kit
             //MaximumPrimeterTriangle.Run();
 
             /***********************************                  Week 4                    ***********************************/
-            
+
             //PickingNumbers.Run();
             //LeftRotation.Run();
             //NumberLineJumps.Run();
@@ -46,7 +46,8 @@ namespace HackerRank3Months_Preparation_Kit
 
             //MaxMin.Run();
             //StrongPassword.Run();
-            DynamicArray.Run();
+            //DynamicArray.Run();
+            MissingNumbers.Run();
 
         }
     }
