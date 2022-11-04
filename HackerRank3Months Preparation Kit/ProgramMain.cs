@@ -47,7 +47,8 @@ namespace HackerRank3Months_Preparation_Kit
             //MaxMin.Run();
             //StrongPassword.Run();
             //DynamicArray.Run();
-            MissingNumbers.Run();
+            //MissingNumbers.Run();
+            TheFullCountingSort.Run();
 
         }
     }
