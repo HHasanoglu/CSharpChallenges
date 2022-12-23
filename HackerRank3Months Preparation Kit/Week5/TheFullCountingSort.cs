@@ -53,7 +53,7 @@ namespace HackerRank3Months_Preparation_Kit
             for (int i = arr.Count/2; i < arr.Count; i++)
             {
                 var index = Convert.ToInt16(arr[i][0]);
-                string value = result[i][1];
+                string value = arr[i][1];
                 if (result.ContainsKey(index))
                 {
                     result[index].Add(value);
@@ -69,6 +69,9 @@ namespace HackerRank3Months_Preparation_Kit
                 foreach (var text in item.Value)
                 {
                     Console.Write(text+" ");
+
+
+
                 }
             }
             
